@@ -9,7 +9,9 @@ Aim: The Main aim of this project is to predict the Death which need Fundraising
 
 3.matplotlib
 
-4.Sklearn
+4.seaborn
+
+5.Sklearn
 
 ### Following are the  Analysis to make better decisions for creating and marketing life insurance products.
 
@@ -35,7 +37,7 @@ Aim: The Main aim of this project is to predict the Death which need Fundraising
 
 11.when County Death of decease person is kiambu and nairobi need  fundsraising
 
-### All The plots which are used for analysis are in python files.
+### All The plots and Graphs which are used for analysis are in python files.
 
 
 
