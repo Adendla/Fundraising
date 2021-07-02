@@ -2,7 +2,9 @@
 
 # Feature information
 Name: Name of deceased 
-Announcement: Date of death announcement on newspaper 
+
+Announcement: Date of death announcement on newspaper
+
 Date: Date of death 
 Burial Day: Day of the week for burial 
 Gender: Female or male 
