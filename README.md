@@ -29,11 +29,11 @@ Aim: The Main aim of this project is to predict the Death which need Fundraising
 
 7.when Gender of decease person is Male needs fundsraising 
 
-8.if obituary is in color needs more fundsraising. 
+8.if obituary is in color needs fundsraising comparing to not color. 
 
 9.if decease person's spouse is alive need more funds 
 
-10.if decease person's spouse's gender needs  fundsraising(Male need more funds)
+10.if decease person's spouse's gender is Femali needs  fundsraising
 
 11.when County Death of decease person is kiambu and nairobi need  fundsraising
 
