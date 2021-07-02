@@ -35,5 +35,8 @@ Aim: The Main aim of this project is to predict the Death which need Fundraising
 
 11.when County Death of decease person is kiambu and nairobi need  fundsraising
 
+### All The plots which are used for analysis are in python files.
+
+
 
 
